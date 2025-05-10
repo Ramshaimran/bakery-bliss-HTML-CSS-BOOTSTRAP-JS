@@ -11,6 +11,7 @@
 - Pagination and slider with Bootstrap
 - Newsletter subscription (via Formspree)
 - Working Checkout form (Formspree integration)
+- Working search functionality using Javacsript
 
 ##  Newsletter
 
@@ -20,4 +21,5 @@
 
 This project is open source and available under the [MIT License](LICENSE).
 
-
+## Site link
+Visit the live website here: [https://bakery-bliss.netlify.app/](https://bakery-bliss.netlify.app/)
